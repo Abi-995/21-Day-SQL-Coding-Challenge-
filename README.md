@@ -1,11 +1,7 @@
-# 21-Day-SQL-Coding-Challenge-
-A 21-day SQL challenge     
-where I solve daily SQL problems covering:     
-Joins 
-Subqueries   
-Window Functions   
-Constraints    
-DDL & DML   
-Data Modeling    
-🚀 Goal 
- Improve SQL problem-solving skills and build a strong portfolio of SQL queries.
+# Analysing E-Learning Platform Purchases using MySQL
+Overview:    
+This analysis examines course purchase data to understand sales performance across
+different course categories and learner behaviour. The objective is to identify top-performing
+courses, revenue-driving categories, and purchasing patterns to support data-driven business
+decisions.
+
